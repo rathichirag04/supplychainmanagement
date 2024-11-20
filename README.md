@@ -79,8 +79,14 @@ Here are the following fields,
 
 ### Dashboard
 
-## Screenshots
+## Supply Chain Analysis Dashboard
 ![1717347095054](https://github.com/user-attachments/assets/41aea7f2-163d-4127-aeb5-7a82bd51e5f3)
+
+## Order Management Dashboard
+![1717429461720](https://github.com/user-attachments/assets/abe3c7cc-21a4-48e0-9b1a-6c6d71858d3d)
+
+## FOR DETAILED REPORT PLEASE CONSIDER DOCUMENTATION PART
+
 
 
 
