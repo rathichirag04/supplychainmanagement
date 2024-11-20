@@ -80,6 +80,8 @@ Here are the following fields,
 ### Dashboard
 
 ## Screenshots
+![1717347095054](https://github.com/user-attachments/assets/41aea7f2-163d-4127-aeb5-7a82bd51e5f3)
 
-![App Screenshot](https://drive.google.com/file/d/1ADwe6S0qfIuQrrqu6MMSEHnnH2AiB2Li/view?usp=drive_link)
+
+
 
